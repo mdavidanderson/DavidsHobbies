@@ -1,0 +1,52 @@
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\bin\Release\DavidsHobbies.exe
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\bin\Release\DavidsHobbies.pdb
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Login.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Portal.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Properties.Resources.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.SpecialOrders.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.exe
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\Mike\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.pdb
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Portal.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Properties.Resources.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.SpecialOrders.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.exe
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\bin\Release\DavidsHobbies.exe
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\bin\Release\DavidsHobbies.pdb
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.pdb
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\bin\Release\DavidsHobbies.exe.config
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Manufacturer.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Shelf_Location.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Item_Type.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Distributor.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Item.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmInventory.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Employees.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\bin\Release\DavidsHobbies.exe.config
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\bin\Release\DavidsHobbies.exe
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\bin\Release\DavidsHobbies.pdb
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmCustomers.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Manufacturer.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Shelf_Location.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Item_Type.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Distributor.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmEdit_Item.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Employees.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmInventory.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmLogin.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Portal.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Properties.Resources.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.SpecialOrders.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.exe
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.pdb
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmCustomers.resources
+C:\Users\Heather\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.frmLogin.resources
+C:\Documents and Settings\Michael\My Documents\Dropbox\workspaceCS317\DavidsHobbies\DavidsHobbies\obj\x86\Release\DavidsHobbies.Form1.resources

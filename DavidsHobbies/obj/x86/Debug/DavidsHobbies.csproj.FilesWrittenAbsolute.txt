@@ -1,0 +1,17 @@
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.frmCustomers.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.frmEdit_Manufacturer.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.frmEdit_Shelf_Location.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.frmEdit_Item_Type.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.frmEdit_Distributor.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.frmEdit_Item.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.Employees.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.frmInventory.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.frmLogin.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.Portal.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.Properties.Resources.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.SpecialOrders.resources
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/bin/Debug/DavidsHobbies.exe.mdb
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/bin/Debug/DavidsHobbies.exe
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.exe
+/home/mda/CS/Education/CS317_EventDriven/workspaceCS317/DavidsHobbies/DavidsHobbies/obj/x86/Debug/DavidsHobbies.exe.mdb
